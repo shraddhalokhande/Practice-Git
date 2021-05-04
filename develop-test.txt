@@ -1,1 +1,8 @@
+Adding new file to Master branch shraddha.
+Step1
 Adding new file to develop branch shraddha.
+
+Step2
+Now lets check how it affects on the master.
+I haven't take pull form master yet. let commit and develop and raise pull request to master.
+it might show us the conflict while merging the pull request.
